@@ -96,7 +96,7 @@ nav .float-l{
 
 /* Landing Page */
 .lnd-card {
-    height: calc(78vh);
+    height: 85vh;
     background-image: url('./imgs/illustration.svg');
     background-size: 100% auto;
     background-repeat: no-repeat;
